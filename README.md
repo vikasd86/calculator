@@ -1,9 +1,9 @@
 # Calculator
 
 ##Description
-Calculator application that performs basic arithmetic operations such as add, subtract, multiply and divide. 
+This is a Calculator application that performs basic arithmetic operations such as add, subtract, multiply and divide. 
 
-##Instructions for running Calculator App
+##Instructions
 
 ###System Requirements
 
@@ -25,3 +25,4 @@ Calculator application that performs basic arithmetic operations such as add, su
    Result will be displayed on the console.
 6. As * is a wildcard character, please perform the multiplication operation as follows :
    java -jar calculator-0.0.1-SNAPSHOT.jar 9.0 "*" 8.0
+
